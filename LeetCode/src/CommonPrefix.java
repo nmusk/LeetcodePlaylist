@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class CommonPrefix {
 	public static void main (String[] args ) {
 		
-		String strs[] = {"floweer" ,"flow" , "flight" };
+		String strs[] = {"foweer" ,"flow" , "flight" };
 		System.out.println(longestCommonPrefix(strs));
 		
 		
